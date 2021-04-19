@@ -1,0 +1,11 @@
+Skill to become full stack web developer
+-Version Control
+-HTML
+-CSS
+-Javascript
+-OOP
+-Framework
+  > Node Js
+  > React Js
+-Debugging
+-JSON API
