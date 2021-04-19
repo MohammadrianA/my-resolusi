@@ -1,4 +1,6 @@
 Skill to become full stack web developer
+
+Front End
 -Version Control
 -HTML
 -CSS
@@ -9,3 +11,9 @@ Skill to become full stack web developer
   > React Js
 -Debugging
 -JSON API
+
+Back and
+- PHP
+- Framework PHP
+  > CI
+  > Laravel
